@@ -1,0 +1,47 @@
+!Doctype html> 
+
+<html> 
+
+    <head> 
+
+        <titlee> Mi web</titlee> 
+
+    </head> 
+
+    <body> 
+
+        <section> 
+
+            <h1>Nombre</h1> 
+
+        </section> 
+
+        <section>  
+
+            <div> edad</div> 
+
+            <div> telefono</div> 
+
+            <div> carrera</div> 
+
+        </section> 
+
+        <section> 
+
+            <ul> 
+
+                <li> Gusto 1</li> 
+
+                <li> Gusto 2</li> 
+
+                <li> Gusto 3</li> 
+
+            </ul> 
+
+        </section> 
+
+        <section></section> 
+
+    </body> 
+
+</html>
